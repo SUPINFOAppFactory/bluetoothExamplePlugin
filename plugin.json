@@ -1,0 +1,22 @@
+{
+  "author":"SUPINFO AppFActory"
+,"pluginName":"Bluetooth Example"
+,"pluginDescription":"check docs at https://github.com/BuildFire/bluetoothExamplePlugin"
+,"supportEmail":"supinfoappfactory@supinfo.com"
+,"control":{
+  "content":{
+    "enabled":false
+  }
+, "design":{
+    "enabled":false
+  }
+, "settings":{
+    "enabled":false
+  }
+}
+,"widget":{
+
+},
+  "features" : ["bluetooth"],
+  "languages" : ["en"]
+}
