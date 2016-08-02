@@ -1,7 +1,7 @@
 {
   "author":"SUPINFO AppFActory"
 ,"pluginName":"Bluetooth Example"
-,"pluginDescription":"check docs at https://github.com/BuildFire/bluetoothExamplePlugin"
+,"pluginDescription":"check docs at https://github.com/SUPINFOAppFactory/bluetoothExamplePlugin.git"
 ,"supportEmail":"supinfoappfactory@supinfo.com"
 ,"control":{
   "content":{
